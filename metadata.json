@@ -1,0 +1,8 @@
+{
+  "name": "George Wassouf - The Legend",
+  "description": "A premium, high-performance artist portfolio for George Wassouf featuring smooth animations, a music player, and an admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
